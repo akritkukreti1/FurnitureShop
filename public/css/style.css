@@ -1,0 +1,13 @@
+
+body {
+  padding-top: 56px;
+}
+
+.card-img-top{
+  height : 230px
+}
+.single-product{
+  height : 500px;
+  width: 85%;
+}
+

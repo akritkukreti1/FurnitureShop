@@ -1,0 +1,37 @@
+{
+    "products":[
+        {
+            "id":"1",
+            "name":"Luxury Brown Sofa",
+            "price":"25,000",
+            "image":"/images/sofa.jpg",
+            "description":"Buy Hanoi Vietnam Leather Sofa 3S online Choose from the largest variety of Living online from Royaloak available at the best price in India",
+            "collection":"sofa",
+            "rating":"",
+            "longDescription":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc."
+
+        },
+        {
+            "id":"2",
+            "name":"Wood & Wire Coffee Table",
+            "price":"5,999",
+            "image":"/images/table.jpeg",
+            "description":"Customization made simple. The Kendall custom dining tables are designed to fit. Proportioned for the modern home, the Kendall tables adapt to any ",
+            "collection":"table",
+            "rating":"",
+            "longDescription":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc."
+
+        },
+        {
+            "id":"3",
+            "name":"Royal Classic set of 12 Photo Frames",
+            "price":"1,000",
+            "image":"/images/photo.jpg",
+            "description":"Customization made simple. The Kendall custom dining tables are designed to fit. Proportioned for the modern home, the Kendall tables adapt to any ",
+            "collection":"Photo",
+            "rating":"",
+            "longDescription":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc."
+
+        }
+    ]
+}
